@@ -1,0 +1,27 @@
+{
+  "name": "puppeteer-networkidle-alternative",
+  "version": "1.0.0",
+  "description": "This package is an alternative implementation for puppeteer networkidle api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/personal/Puppeteer-NetworkIdle-Alternatie.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "networkidle",
+    "puppeteer networkidle alternative",
+    "network",
+    "puppeteer network"
+  ],
+  "author": "Giri Aakula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/personal/Puppeteer-NetworkIdle-Alternatie/issues"
+  },
+  "homepage": "https://github.com/personal/Puppeteer-NetworkIdle-Alternatie#readme",
+  "dependencies": {}
+}
