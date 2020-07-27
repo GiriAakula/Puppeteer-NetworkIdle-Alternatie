@@ -23,5 +23,8 @@
     "url": "https://github.com/personal/Puppeteer-NetworkIdle-Alternatie/issues"
   },
   "homepage": "https://github.com/personal/Puppeteer-NetworkIdle-Alternatie#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
 }
