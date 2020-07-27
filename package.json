@@ -4,7 +4,7 @@
   "description": "This package is an alternative implementation for puppeteer networkidle api.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --passWithNoTests"
   },
   "repository": {
     "type": "git",
